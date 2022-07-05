@@ -1,8 +1,8 @@
 # KitCat Programer
 ## Founders :
-Daniel Rodriguez 
+Daniel Rodríguez Fernández
 <br>
-Azahara Blanco
+Azahara Blanco Rodríguez
 
 ## Goals:
 
