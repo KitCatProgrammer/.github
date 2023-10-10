@@ -1,11 +1,11 @@
 
 
-# KitCatProgrammer
+# Break Pro Game
 <div align="center">
     <img src="https://avatars.githubusercontent.com/u/108596676?s=400&u=6bc966ed9ab1d76fb92332edfccb074de1ec0707&v=4" alt="Logo de KitCatProgrammer" width="200">
 </div>
 
-Bienvenido al perfil de KitCatProgrammer en GitHub. Somos una empresa de desarrollo de software fundada en junio de 2022 por Daniel Rodriguez Fernandez y Azahara Blanco Rodriguez. Nos enfocamos en crear soluciones innovadoras y eficientes para diversos sectores de la industria.
+Bienvenido al perfil de Break Pro Game en GitHub. Somos una empresa de desarrollo de software fundada en junio de 2022 por Daniel Rodriguez Fernandez y Azahara Blanco Rodriguez. Nos enfocamos en crear soluciones innovadoras y eficientes para diversos sectores de la industria.
 
 ## Proyectos Actuales
 
@@ -23,13 +23,12 @@ Estamos comprometidos a crear una herramienta robusta y fácil de usar que benef
 
 ## Contribuciones y Colaboración
 
-En KitCatProgrammer, valoramos la colaboración y el intercambio de conocimientos. Si estás interesado en contribuir a nuestros proyectos o tienes ideas para mejorarlos, ¡estamos abiertos a sugerencias! Siéntete libre de explorar nuestros repositorios en GitHub y participar en las discusiones o enviar solicitudes de extracción.
+En Break Pro Game, valoramos la colaboración y el intercambio de conocimientos. Si estás interesado en contribuir a nuestros proyectos o tienes ideas para mejorarlos, ¡estamos abiertos a sugerencias! Siéntete libre de explorar nuestros repositorios en GitHub y participar en las discusiones o enviar solicitudes de extracción.
 
 ## Contacto
 
 Si tienes alguna pregunta, consulta o simplemente quieres saber más sobre nuestro trabajo, no dudes en ponerte en contacto con nosotros. Puedes encontrarnos en los siguientes enlaces:
 
-- Sitio web: [https://www.kitcatprogrammer.com](https://www.kitcatprogrammer.com)
-- Correo electrónico: [info@kitcatprogrammer.com](mailto:info@kitcatprogrammer.com)
+- Correo electrónico: [breakprogame@gmail.com](mailto:breakprogame@gmail.com)
 
-¡Gracias por visitar nuestro perfil de GitHub! Esperamos verte involucrado en nuestros proyectos y contribuir al crecimiento de KitCatProgrammer.
+¡Gracias por visitar nuestro perfil de GitHub! Esperamos verte involucrado en nuestros proyectos y contribuir al crecimiento de Break Pro Game.
